@@ -1,4 +1,4 @@
-# TwigSpreadsheetBundle
+# TwigSpreadsheetBundle (Symfony 5.0 & Twig 3.0)
 
 [![Teavis CI: Build Status](https://travis-ci.org/MewesK/TwigSpreadsheetBundle.png?branch=master)](https://travis-ci.org/MewesK/TwigSpreadsheetBundle)
 [![Scrutinizer: Code Quality](https://scrutinizer-ci.com/g/MewesK/TwigSpreadsheetBundle/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/MewesK/TwigSpreadsheetBundle/?branch=master)
@@ -7,7 +7,7 @@
 
 This Symfony bundle integrates PhpSpreadsheet into Symfony using Twig.
 
-!!! This repository is a continuation of the original TwigSpreadsheetBundle. !!!
+This repository is a continuation of the original TwigSpreadsheetBundle.
 
 A list of differences from the original TwigSpreadsheetBundle:
 - added support for Symfony 5 and Twig 3
